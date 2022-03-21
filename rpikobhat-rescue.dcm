@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2N7002P_215-dk_Transistors-FETs-MOSFETs-Single
+F https://assets.nexperia.com/documents/data-sheet/2N7002P.pdf
+$ENDCMP
+#
+$CMP LM393DR-dk_Linear-Comparators
+F http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Flm193
+$ENDCMP
+#
+#End Doc Library

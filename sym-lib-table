@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name raspberrypi_hat)(type Legacy)(uri ${KIPRJMOD}/project_components/raspberrypi_hat.lib)(options "")(descr ""))
+  (lib (name "raspberrypi_hat")(type "Legacy")(uri "${KIPRJMOD}/project_components/raspberrypi_hat.lib")(options "")(descr ""))
+  (lib (name "rpikobhat-rescue")(type "Legacy")(uri "${KIPRJMOD}/rpikobhat-rescue.lib")(options "")(descr ""))
 )
