@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name project_footprints)(type KiCad)(uri "$(KIPRJMOD)/project_footprints.pretty")(options "")(descr ""))
+  (lib (name "project_footprints")(type "KiCad")(uri "$(KIPRJMOD)/project_footprints.pretty")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "/home/raven/gitrepos/pcb/digikey-kicad-library/digikey-footprints.pretty")(options "")(descr ""))
 )
